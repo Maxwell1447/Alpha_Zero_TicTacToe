@@ -1,0 +1,2 @@
+model_checkpoint_path: "nnet.pth.tar"
+all_model_checkpoint_paths: "nnet.pth.tar"
